@@ -1,0 +1,66 @@
+{
+  "info": {
+    "_postman_id": "9bf07ab6-e2c8-4ae4-8f9c-fa28a4e35c5b",
+    "name": "praktikum5",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "58142528",
+    "_collection_link": "https://go.postman.co/collection/58142528-9bf07ab6-e2c8-4ae4-8f9c-fa28a4e35c5b?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Create Berhasil",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Validation Gagal",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Update Sebagian",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Not Found",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Delete",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    }
+  ]
+}
